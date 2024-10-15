@@ -1,8 +1,8 @@
 body {background: rgb(white);
-background: linearGradient(90deg, rgba(rgb(4, 161, 25) 13%, rgba(255, 0, 0) 28%, rgba(13, 86, 245)) 62%);}
+    background: linearGradient(90deg, rgba(rgb(4, 161, 25) 13%, rgba(255, 0, 0) 28%, rgba(13, 86, 245)) 62%);}
 
 header {
-    display:flex;
+    display: flex;
     justify-content: center;
 }
 
