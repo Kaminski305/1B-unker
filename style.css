@@ -1,22 +1,18 @@
-body {background: rgb(white);
-    background: linearGradient(90deg, rgba(rgb(4, 161, 25) 13%, rgba(255, 0, 0) 28%, rgba(13, 86, 245)) 62%);}
+body {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(90 deg, rgba (green) 100%, rgba (orangered)100%, rgba (blue) 100%);
+}
 
 header {
     display: flex;
     justify-content: center;
 }
 
-.nav-lista {
+yl {
     display: flex;
     list-style: none;
-    font-size: 45px;
-    color:black;
+    font-size: 40px;
+    color: white;
     gap: 28px;
     text-transform: uppercase;
-}
-
-.nav-item:hover {
-    cursor: pointer;
-    background-color: black;
-    color: white;
 }
